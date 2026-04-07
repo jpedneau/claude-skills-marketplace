@@ -1,0 +1,9 @@
+{
+  "name": "qa",
+  "version": "1.0.0",
+  "description": "Interactive QA session where user reports bugs conversationally and the agent files GitHub issues",
+  "author": {
+    "name": "jpedneau",
+    "email": "noreply@github.com"
+  }
+}

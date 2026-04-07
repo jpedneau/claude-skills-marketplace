@@ -1,0 +1,9 @@
+{
+  "name": "improve-codebase-architecture",
+  "version": "1.0.0",
+  "description": "Explore a codebase to find architectural improvement opportunities, focusing on testability and deep modules",
+  "author": {
+    "name": "jpedneau",
+    "email": "noreply@github.com"
+  }
+}

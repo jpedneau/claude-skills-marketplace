@@ -6,13 +6,88 @@
   },
   "plugins": [
     {
-      "name": "engineering-workflow-skills",
-      "source": "./engineering-workflow-plugin",
-      "description": "Skills for common software engineering workflows including git operations, test fixing, code review implementation, and feature planning with plan-implementer agent",
+      "name": "design-an-interface",
+      "source": "./design-an-interface",
+      "description": "Generate multiple radically different interface designs for a module using parallel sub-agents",
       "version": "1.0.0",
-      "author": {
-        "name": "jpedneau"
-      }
+      "author": { "name": "jpedneau" }
+    },
+    {
+      "name": "git-guardrails-claude-code",
+      "source": "./git-guardrails-claude-code",
+      "description": "Set up Claude Code hooks to block dangerous git commands before they execute",
+      "version": "1.0.0",
+      "author": { "name": "jpedneau" }
+    },
+    {
+      "name": "grill-me",
+      "source": "./grill-me",
+      "description": "Interview the user relentlessly about a plan or design until reaching shared understanding",
+      "version": "1.0.0",
+      "author": { "name": "jpedneau" }
+    },
+    {
+      "name": "improve-codebase-architecture",
+      "source": "./improve-codebase-architecture",
+      "description": "Explore a codebase to find architectural improvement opportunities, focusing on testability and deep modules",
+      "version": "1.0.0",
+      "author": { "name": "jpedneau" }
+    },
+    {
+      "name": "prd-to-issues",
+      "source": "./prd-to-issues",
+      "description": "Break a PRD into independently-grabbable GitHub issues using tracer-bullet vertical slices",
+      "version": "1.0.0",
+      "author": { "name": "jpedneau" }
+    },
+    {
+      "name": "prd-to-plan",
+      "source": "./prd-to-plan",
+      "description": "Turn a PRD into a multi-phase implementation plan using tracer-bullet vertical slices",
+      "version": "1.0.0",
+      "author": { "name": "jpedneau" }
+    },
+    {
+      "name": "qa",
+      "source": "./qa",
+      "description": "Interactive QA session where user reports bugs conversationally and the agent files GitHub issues",
+      "version": "1.0.0",
+      "author": { "name": "jpedneau" }
+    },
+    {
+      "name": "request-refactor-plan",
+      "source": "./request-refactor-plan",
+      "description": "Create a detailed refactor plan with tiny commits via user interview, filed as a GitHub issue",
+      "version": "1.0.0",
+      "author": { "name": "jpedneau" }
+    },
+    {
+      "name": "tdd",
+      "source": "./tdd",
+      "description": "Test-driven development with red-green-refactor loop",
+      "version": "1.0.0",
+      "author": { "name": "jpedneau" }
+    },
+    {
+      "name": "ubiquitous-language",
+      "source": "./ubiquitous-language",
+      "description": "Extract a DDD-style ubiquitous language glossary from the current conversation",
+      "version": "1.0.0",
+      "author": { "name": "jpedneau" }
+    },
+    {
+      "name": "write-a-prd",
+      "source": "./write-a-prd",
+      "description": "Create a PRD through user interview, codebase exploration, and module design",
+      "version": "1.0.0",
+      "author": { "name": "jpedneau" }
+    },
+    {
+      "name": "write-a-skill",
+      "source": "./write-a-skill",
+      "description": "Create new agent skills with proper structure, progressive disclosure, and bundled resources",
+      "version": "1.0.0",
+      "author": { "name": "jpedneau" }
     }
   ]
 }

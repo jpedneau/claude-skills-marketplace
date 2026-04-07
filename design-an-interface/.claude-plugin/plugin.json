@@ -1,0 +1,9 @@
+{
+  "name": "design-an-interface",
+  "version": "1.0.0",
+  "description": "Generate multiple radically different interface designs for a module using parallel sub-agents",
+  "author": {
+    "name": "jpedneau",
+    "email": "noreply@github.com"
+  }
+}

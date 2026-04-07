@@ -1,0 +1,9 @@
+{
+  "name": "request-refactor-plan",
+  "version": "1.0.0",
+  "description": "Create a detailed refactor plan with tiny commits via user interview, filed as a GitHub issue",
+  "author": {
+    "name": "jpedneau",
+    "email": "noreply@github.com"
+  }
+}

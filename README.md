@@ -1,6 +1,6 @@
 # Claude Skills Marketplace
 
-A collection of skills for [Claude Code](https://claude.ai/code) that enhance software engineering workflows.
+A collection of skills for [Claude Code](https://claude.ai/code) that enhance software engineering workflows. Each skill is a separate plugin so you can install only what you need.
 
 ## Skills
 
@@ -21,7 +21,7 @@ A collection of skills for [Claude Code](https://claude.ai/code) that enhance so
 
 ## Installation
 
-Install via the Claude Code skill marketplace, or clone this repo and add it as a local plugin.
+Install individual skills via the Claude Code skill marketplace, or clone this repo and add specific plugins as local plugins.
 
 ## License
 

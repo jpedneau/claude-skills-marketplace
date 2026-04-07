@@ -1,0 +1,9 @@
+{
+  "name": "prd-to-plan",
+  "version": "1.0.0",
+  "description": "Turn a PRD into a multi-phase implementation plan using tracer-bullet vertical slices",
+  "author": {
+    "name": "jpedneau",
+    "email": "noreply@github.com"
+  }
+}

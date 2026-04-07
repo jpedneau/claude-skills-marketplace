@@ -1,0 +1,9 @@
+{
+  "name": "git-guardrails-claude-code",
+  "version": "1.0.0",
+  "description": "Set up Claude Code hooks to block dangerous git commands before they execute",
+  "author": {
+    "name": "jpedneau",
+    "email": "noreply@github.com"
+  }
+}

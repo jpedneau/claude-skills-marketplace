@@ -1,0 +1,9 @@
+{
+  "name": "ubiquitous-language",
+  "version": "1.0.0",
+  "description": "Extract a DDD-style ubiquitous language glossary from the current conversation",
+  "author": {
+    "name": "jpedneau",
+    "email": "noreply@github.com"
+  }
+}

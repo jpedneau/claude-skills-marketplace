@@ -1,0 +1,9 @@
+{
+  "name": "prd-to-issues",
+  "version": "1.0.0",
+  "description": "Break a PRD into independently-grabbable GitHub issues using tracer-bullet vertical slices",
+  "author": {
+    "name": "jpedneau",
+    "email": "noreply@github.com"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "write-a-prd",
+  "version": "1.0.0",
+  "description": "Create a PRD through user interview, codebase exploration, and module design",
+  "author": {
+    "name": "jpedneau",
+    "email": "noreply@github.com"
+  }
+}
